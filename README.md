@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saikaia
+- 👋 Hi, I’m Sawmsanga
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on web3 Projects
